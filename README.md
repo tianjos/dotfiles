@@ -1,4 +1,4 @@
-# 🚀 Dotfiles + Helix Setup
+# 🚀 Dotfiles + Helix Setup (WIP)
 
 Ambiente de desenvolvimento reproduzível com:
 
@@ -23,7 +23,7 @@ Antes de começar, você precisa ter:
 ## ⚙️ Instalação rápida (recomendada)
 
 ```bash
-git clone <SEU_REPO>
+git clone git@github.com:tianjos/dotfiles.git
 cd dotfiles
 
 bash scripts/setup.sh
